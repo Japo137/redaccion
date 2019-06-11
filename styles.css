@@ -1,0 +1,41 @@
+/*** Add your styles here **/
+.bg{
+
+  background: url('../img/f44.jpg') no-repeat;
+  width: 100vw;
+  height:100vh;
+
+}
+.conta-form {
+  color: white;
+  margin-top: 15vh;
+  border: 0px solid black;
+  padding: 50px;
+  border-radius: 5px;
+  -webkit-box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+  box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+.frm_Inicio{
+  color: black;
+  margin-top: 15vh;
+  border: 0px solid black;
+  padding: 50px;
+  border-radius: 5px;
+  -webkit-box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+  box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.ti{
+  color:black ;
+}
+
+.modal-body{
+  color:black ;
+}
+
+.error{
+  background-color:#FADBD8;
+  color: red;
+}
